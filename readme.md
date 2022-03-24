@@ -4,10 +4,7 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 index.html bluestayle.css image file
-<<<<<<< HEAD
-
-=======
->>>>>>> Emmergency-Fix
 
 this is now a github edit 
->>>>>>> origin/master
+this is the second github edit for testing git pull 
+
