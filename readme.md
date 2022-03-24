@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 =======
 index.html bluestayle.css image file
 >>>>>>> Emmergency-Fix
+
+this is now a github edit 
