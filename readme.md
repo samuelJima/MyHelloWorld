@@ -9,3 +9,4 @@ index.html bluestayle.css image file
 >>>>>>> Emmergency-Fix
 
 this is now a github edit 
+this is the second github edit for testing git pull 
