@@ -8,3 +8,5 @@ index.html bluestayle.css image file
 this is now a github edit 
 this is the second github edit for testing git pull 
 
+readme updated to push branch to github
+
